@@ -1,16 +1,202 @@
-## Hi there 👋
+# 👋 Привет! Я Таня
 
-<!--
-**teaserfox/teaserfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Engineer · Frontend Developer → Full-stack
 
-Here are some ideas to get you started:
+Создаю веб-приложения, в которых **архитектура, интерфейс и пользовательский опыт работают вместе**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой основной фокус — **Angular + TypeScript**.
+Сейчас активно развиваю full-stack направление: **NestJS, PostgreSQL, Prisma и Docker**.
+
+---
+
+## 🦊 Немного обо мне
+
+Мне нравится не просто писать код, а **разбираться в задаче целиком**.
+
+Что происходит на уровне интерфейса?
+Как данные проходят через API?
+Как лучше спроектировать базу?
+Что будет, когда функциональности станет в два раза больше?
+
+Поэтому мой подход довольно простой:
+
+> **Сначала подумать. Потом написать. Потом подумать ещё раз. 😄**
+
+Люблю чистую архитектуру, понятный код и решения, которые не превращаются в проблему при следующем изменении требований.
+
+---
+
+## ⚡ Tech Stack
+
+**Frontend**
+
+`Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+**Backend**
+
+`NestJS` · `Node.js` · `Django` · `Python`
+
+**Database**
+
+`PostgreSQL` · `Prisma`
+
+**Infrastructure**
+
+`Docker` · `Nginx` · `Git`
+
+**Design**
+
+`Figma`
+
+---
+
+## 🚀 Featured Project
+
+### 🎨 Artist Gallery
+
+**Full-stack web application for an artist gallery**
+
+`Angular` · `TypeScript` · `NestJS` · `PostgreSQL` · `Prisma` · `Docker`
+
+Проект создаётся с нуля — от структуры базы данных и API до frontend-интеграции.
+
+Главная идея — не просто реализовать текущие требования, а заложить архитектуру, которую можно **нормально расширять дальше**.
+
+```text
+                    ┌──────────────┐
+                    │   Angular    │
+                    │  Frontend    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   NestJS     │
+                    │   REST API   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    Prisma    │
+                    │     ORM      │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │ PostgreSQL   │
+                    │   Database   │
+                    └──────────────┘
+```
+
+> **Build for today. Think about tomorrow.**
+
+---
+
+## 🧠 Сейчас развиваю
+
+```text
+Angular Architecture
+TypeScript
+NestJS
+REST API
+PostgreSQL
+Prisma
+Authentication & Authorization
+Docker
+CI/CD
+React
+Next.js
+```
+
+Моя цель — двигаться от разработки отдельных частей приложения к пониманию **системы целиком**.
+
+---
+
+## 🏗️ Как я думаю о разработке
+
+```text
+             IDEA
+              │
+              ▼
+          REQUIREMENTS
+              │
+              ▼
+         ARCHITECTURE
+              │
+       ┌──────┴──────┐
+       ▼             ▼
+   FRONTEND        BACKEND
+       │             │
+       └──────┬──────┘
+              ▼
+           DATABASE
+              │
+              ▼
+             UX
+              │
+              ▼
+           PRODUCT
+```
+
+Хороший код для меня — это не только код, который работает.
+
+Это код, который **понятно читать, удобно менять и не страшно расширять**.
+
+---
+
+## 🌱 Beyond code
+
+Мой профессиональный путь не ограничивается программированием.
+
+У меня есть опыт в **web development, design и education**, поэтому я привыкла смотреть на проект сразу с нескольких сторон:
+
+**Developer · Designer · User · Business**
+
+И, наверное, именно поэтому мне нравится web development.
+
+Здесь можно одновременно быть немного инженером, немного дизайнером, немного исследователем и иногда человеком, который говорит:
+
+> *«Подождите. А что будет, если завтра заказчик попросит ещё вот это?»* 😄
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=teaserfox&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaserfox&layout=compact&hide_border=true" alt="Top Languages">
+
+</div>
+
+---
+
+## 🦊 Currently
+
+```text
+learning
+    ↓
+building
+    ↓
+breaking things
+    ↓
+fixing things
+    ↓
+learning again
+```
+
+### `BUILD → LEARN → IMPROVE`
+
+**Code with purpose.
+Design for change.
+Keep learning.**
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 🦊
+
+`Angular` · `TypeScript` · `NestJS` · `PostgreSQL`
+
+</div>
