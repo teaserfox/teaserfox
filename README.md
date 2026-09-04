@@ -2,10 +2,11 @@
 
 ### Web Engineer · Frontend Developer → Full-stack
 
-Создаю веб-приложения, в которых **архитектура, интерфейс и пользовательский опыт работают вместе**.
+Создаю веб-приложения, продумывая не только то, как они работают сейчас,
+но и то, как их будет удобно развивать дальше.
 
-Мой основной фокус — **Angular + TypeScript**.
-Сейчас активно развиваю full-stack направление: **NestJS, PostgreSQL, Prisma и Docker**.
+Мой основной стек — **Angular и TypeScript**.
+Сейчас развиваю full-stack направление: **NestJS, PostgreSQL, Prisma и Docker**.
 
 ---
 
@@ -159,17 +160,6 @@ Next.js
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=teaserfox&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teaserfox&layout=compact&hide_border=true" alt="Top Languages">
-
-</div>
-
----
 
 ## 🦊 Currently
 
