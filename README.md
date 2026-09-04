@@ -1,3 +1,5 @@
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png"> <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png"> <img alt="Fox Web Engineer — Frontend to Full-stack" src="./assets/banner-light.png"> </picture>
+
 # 👋 Привет! 
 
 ### Web Engineer · Frontend Developer → Full-stack
