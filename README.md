@@ -1,4 +1,4 @@
-# 👋 Привет! Я Таня
+# 👋 Привет! 
 
 ### Web Engineer · Frontend Developer → Full-stack
 
