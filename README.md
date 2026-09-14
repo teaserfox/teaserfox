@@ -53,6 +53,7 @@ Full-stack веб-приложение для художественной га�
 **Angular · TypeScript · NestJS · PostgreSQL · Prisma · Docker**
 
 Проект создаётся с нуля: от структуры базы данных и API до frontend-интеграции.
+
 **Дизайнер Ольга Бобылева** — [портфолио на Behance](https://www.behance.net/33c12825).
 
 
